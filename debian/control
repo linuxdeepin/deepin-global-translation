@@ -1,0 +1,12 @@
+Source: deepin-global-translation
+Section: misc
+Priority: optional
+Maintainer: Deepin Sysdev <sysdev@deepin.com>
+Standards-Version: 4.5.1
+Build-Depends: debhelper-compat (= 12)
+
+Package: deepin-global-translation
+Architecture: all
+Depends: ${misc:Depends}
+Description: thes is desktop file 
+ Default jump to web page.

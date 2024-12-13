@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Name=Global translation notification
+Name[zh_CN]=国际化翻译告知
+Exec=/usr/bin/xdg-open https://www.deepin.org/index/localization
+Icon=deepin-global-translation
+Terminal=false
