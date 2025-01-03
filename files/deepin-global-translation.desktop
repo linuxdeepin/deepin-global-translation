@@ -1,7 +1,20 @@
 [Desktop Entry]
 Type=Application
 Name=Global translation notification
-Name[zh_CN]=国际化翻译告知
+Name[zh_CN]=国际化翻译呼吁
+Name[zh_HK]=國際化翻譯呼籲
+Name[zh_TW]=國際化翻譯呼籲
+Name[en_AU]=Call for Internationalization of Translation
+Name[en_GB]=Call for Internationalization of Translation
+Name[en_US]=Call for Internationalization of Translation
+Name[en_CA]=Call for Internationalization of Translation
+Name[pt]=Apelo à Tradução Internacionalização
+Name[es]=Llamado a la Internacionalización de la Traducción
+Name[ja]=国際化翻訳の呼びかけ
+Name[hi_IN]=अनुवाद का अंतर्राष्ट्रीयकरण के लिए आह्वान
+Name[de]=Aufruf zur Internationalisierung der Übersetzung
+Name[ru]=Призыв к интернационализации перевода
+Name[id]=Seruan untuk Internasionalisasi Terjemahan
 Exec=/usr/bin/xdg-open https://www.deepin.org/index/localization
 Icon=deepin-global-translation
 Terminal=false
