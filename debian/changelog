@@ -1,3 +1,9 @@
+deepin-global-translation (1.0.1) unstable; urgency=medium
+
+  * update desktop.
+
+ -- lichenggang <lichenggang@deepin.org>  Fri, 03 Jan 2025 11:08:23 +0800
+
 deepin-global-translation (1.0.0) unstable; urgency=medium
 
   * init.
