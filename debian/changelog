@@ -1,3 +1,9 @@
+deepin-global-translation (1.0.3) unstable; urgency=medium
+
+  * add lo support 
+
+ -- lichenggang <lichenggang@deepin.org>  Fri, 15 Aug 2025 13:08:47 +0800
+
 deepin-global-translation (1.0.1) unstable; urgency=medium
 
   * update desktop.
